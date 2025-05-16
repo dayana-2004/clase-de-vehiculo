@@ -17,4 +17,4 @@ def dibujar_figura(lados, tamaño, color):
     ventana.mainloop()
 
 
-dibujar_figura(5, 100, "blue")
+dibujar_figura(5, 100, "blue") 
